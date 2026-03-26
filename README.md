@@ -2,9 +2,9 @@
 
 Geospatial Data Engineer | ArcGIS Enterprise | Python Automation | Spatial ETL | SQL Server | AI-Integrated GIS Workflows
 
-I design and implement geospatial systems that transform fragmented data into automated, decision-ready workflows.
+I design and implement geospatial systems that transform fragmented data into automated, decision-ready workflows for real-world operations.
 
-My work focuses on eliminating manual processes, improving data accuracy, and enabling organizations to operationalize their GIS environments at scale.
+My work bridges enterprise GIS architecture, automation engineering, and AI-driven data workflows to deliver measurable operational impact.
 
 ## Core Capabilities
 - ArcGIS Enterprise, ArcGIS Pro, ArcGIS Online  
@@ -23,7 +23,7 @@ My work focuses on eliminating manual processes, improving data accuracy, and en
 ## Selected Projects
 - **Ariyo-AI** – Developed an AI-powered platform demonstrating automation, product design, and scalable system thinking  
 - **GIS Automation Projects** – Built Python (ArcPy)-driven workflows that streamline spatial data processing and reduce manual effort  
-- **Spatial ETL Pipelines** – Designed data integration pipelines that unify multi-source datasets for operational GIS environments   – Data integration systems supporting operational GIS environments  
+- **Spatial ETL Pipelines** – Designed data integration pipelines that unify multi-source datasets for operational GIS environments  
 
 ## Professional Highlights
 - Founder, ETL GIS Consulting LLC  
