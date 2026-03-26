@@ -4,31 +4,31 @@ Geospatial Data Engineer | ArcGIS Enterprise | Python Automation | Spatial ETL |
 
 I design and implement geospatial systems that transform fragmented data into automated, decision-ready workflows.
 
-My work sits at the intersection of enterprise GIS, Python automation, data engineering, and spatial ETL. I build solutions that improve operational efficiency, data quality, and accessibility for government, infrastructure, and data-driven organizations.
+My work focuses on eliminating manual processes, improving data accuracy, and enabling organizations to operationalize their GIS environments at scale.
 
 ## Core Capabilities
-- ArcGIS Enterprise, ArcGIS Pro, ArcGIS Online
-- Python automation and workflow scripting
-- Spatial ETL and data integration
-- SQL Server and geospatial database support
-- REST API integration
-- AI-enhanced workflow design
+- ArcGIS Enterprise, ArcGIS Pro, ArcGIS Online  
+- Python automation (ArcPy) and workflow orchestration  
+- Spatial ETL and data integration pipelines  
+- SQL Server and geospatial database systems  
+- REST API integration and system connectivity  
+- AI-enhanced GIS workflows  
 
-## Focus Areas
-- GIS workflow automation  
-- Enterprise geospatial systems  
-- Spatial data engineering  
-- AI-integrated GIS solutions  
-- Public-sector digital modernization  
+## What I Deliver
+- Automated GIS workflows that reduce manual processing  
+- Enterprise geospatial systems that improve data accessibility  
+- Spatial data pipelines that unify disconnected datasets  
+- AI-integrated solutions that enhance decision-making  
 
 ## Selected Projects
-- **Ariyo-AI** – AI-powered platform showcasing automation and product design  
-- **GIS Automation Projects** – Python and ArcPy-driven workflow optimization  
-- **Spatial ETL Pipelines** – Data integration and transformation systems  
+- **Ariyo-AI** – AI-powered platform demonstrating automation, product thinking, and innovation  
+- **GIS Automation Projects** – Python-driven workflow optimization for spatial data processing  
+- **Spatial ETL Pipelines** – Data integration systems supporting operational GIS environments  
 
 ## Professional Highlights
 - Founder, ETL GIS Consulting LLC  
 - Marquis Who’s Who Honoree (2025)  
+- Against All Odds Award (2006)  
 - Esri-certified spatial analyst  
 - AI certifications (2025)  
 
