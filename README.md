@@ -5,7 +5,7 @@ Geospatial Data Engineer | ArcGIS Enterprise | Python Automation | Spatial ETL |
 I design and implement geospatial systems that transform fragmented data into automated, decision-ready workflows for real-world operations.
 
 My work bridges enterprise GIS architecture, automation engineering, and AI-driven data workflows to deliver measurable operational impact.
-
+---
 ## Core Capabilities
 - ArcGIS Enterprise, ArcGIS Pro, ArcGIS Online  
 - Python automation (ArcPy) and workflow orchestration  
