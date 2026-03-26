@@ -21,9 +21,9 @@ My work focuses on eliminating manual processes, improving data accuracy, and en
 - AI-integrated solutions that enhance decision-making  
 
 ## Selected Projects
-- **Ariyo-AI** – AI-powered platform demonstrating automation, product thinking, and innovation  
-- **GIS Automation Projects** – Python-driven workflow optimization for spatial data processing  
-- **Spatial ETL Pipelines** – Data integration systems supporting operational GIS environments  
+- **Ariyo-AI** – Developed an AI-powered platform demonstrating automation, product design, and scalable system thinking  
+- **GIS Automation Projects** – Built Python (ArcPy)-driven workflows that streamline spatial data processing and reduce manual effort  
+- **Spatial ETL Pipelines** – Designed data integration pipelines that unify multi-source datasets for operational GIS environments   – Data integration systems supporting operational GIS environments  
 
 ## Professional Highlights
 - Founder, ETL GIS Consulting LLC  
