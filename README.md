@@ -1,5 +1,19 @@
 # Paul Iyogun
 
+## Project at a glance
+
+**Category:** Professional GitHub profile and engineering portfolio  
+**Purpose:** Introduce Paul Iyogun's enterprise GIS, automation, spatial ETL and AI-enabled engineering work  
+**Audience:** Users, engineers, reviewers and potential partners  
+**Repository:** https://github.com/Omoluabi1003/Omoluabi1003
+
+**Implementation and evidence:** Portfolio claims should be supported by linked projects and distinguish demonstrations from deployed client solutions.
+
+Use the sections below for the detailed product description, engineering workflow and any available setup instructions. Roadmap statements are not guarantees of deployed functionality.
+
+---
+
+
 Geospatial Data Engineer | ArcGIS Enterprise | Python Automation | Spatial ETL | SQL Server | AI-Integrated GIS Workflows
 
 I design and implement geospatial systems that transform fragmented data into automated, decision-ready workflows for real-world operations.
